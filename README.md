@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hoi there! 👋
+- My name is Derpipose, or Rhys
+- I am a Software Engineering Programming student based out of Utah
+- I am currently working on creating a character builder and camapign runner for a TTRPG system being developed called Chronicles of the Omuns
+- I have worked with Agentic coding for a few projects in school
 <!--
 **Derpipose/Derpipose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
