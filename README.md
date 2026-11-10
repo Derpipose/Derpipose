@@ -1,8 +1,11 @@
 ## Hoi there! 👋
-- My name is Derpipose, or Rhys
-- I am a Software Engineering Programming student based out of Utah
-- I am currently working on creating a character builder and camapign runner for a TTRPG system being developed called Chronicles of the Omuns
-- I have worked with Agentic coding for a few projects in school
+
+I'm **Rhys**, a Software Engineer based in Utah.
+
+-  I work with technologies including **C#, .NET, JavaScript, TypeScript, SQL, Ruby, Vue, and React**.
+-  I'm currently developing **Chronicles of the Omuns**, a character builder and campaign management application for an in-development TTRPG system.
+-  I have experience with **Test-Driven Development (TDD)** and **Domain-Driven Design (DDD)**.
+-  I've explored agentic coding tools in several software development projects.
 <!--
 **Derpipose/Derpipose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
